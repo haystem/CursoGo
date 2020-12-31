@@ -20,7 +20,7 @@ func Cao(d int){
   c:= d*7
   fmt.Println("A idade é :", c)
 }
-//Encher linguiça
+//Chame função com pergunta do ano escolhendo qualquer variedade
 func Conv (){
    Idade()
   defer Cao(i)

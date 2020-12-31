@@ -1,9 +1,6 @@
 package main
 
-import(
- // "fmt"
-  "cao"
-  )
+import "github.com/haystem/CursoGo/cao"
   
   func main(){
     cao.Conv()
